@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ahadilou/
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/hadilou.adje/
+    - icon: github
+      text: Github
+      href: https://github.com/hadilou
+
+---
+
+About this blog
